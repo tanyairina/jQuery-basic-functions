@@ -1,0 +1,24 @@
+#panel, #flip_down, #flip_up, #flip, #text_color {
+    padding: 5px;
+    font-size: larger;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke; 
+    text-align: center;
+    background-color: rgb(87, 73, 100);
+    border: solid 1px #663434;
+}
+
+#panel {
+    padding: 50px;
+    display: none;
+}
+
+.important {
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.pink {
+    color: rgb(146, 71, 142);
+}
